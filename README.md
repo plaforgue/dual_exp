@@ -1,4 +1,4 @@
-This repository contains code to reproduce the experiments from *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* by P. Laforgue, A. Lambert, L. Brogat-Motte, and F. d'Alché-Buc, published in the proceedings of ICML 2020 [[Arxiv](https://arxiv.org/abs/1910.04621)].
+This repository contains code to reproduce the experiments from [*Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses*](https://arxiv.org/abs/1910.04621) by P. Laforgue, A. Lambert, L. Brogat-Motte, and F. d'Alché-Buc, published in the proceedings of ICML 2020.
 
 
 To re-run the experiments (WARNING: it will erase previous saved results upon swhich plots are based), run:
